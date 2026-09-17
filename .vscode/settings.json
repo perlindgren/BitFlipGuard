@@ -1,6 +1,7 @@
 {
     "editor.formatOnPaste": true,
     "cSpell.ignoreWords": [
-        "bitflip"
+        "bitflip",
+        "redundencie"
     ]
 }
