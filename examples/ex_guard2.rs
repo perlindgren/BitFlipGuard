@@ -2,7 +2,6 @@ use bitflip_guard::BitFlipGuard2;
 
 fn main() {
     let mut guard = BitFlipGuard2::new(42i32);
-    guard.set(100);
 
     println!("guard {:?}", guard);
 
