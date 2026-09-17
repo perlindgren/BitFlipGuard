@@ -1,0 +1,7 @@
+[package]
+name = "bitflip_guard"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+link-section = "0.19.3"
